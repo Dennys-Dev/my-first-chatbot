@@ -5,7 +5,7 @@ import ollama
 st.set_page_config(page_title="Dennis AI", page_icon="🔥")
 
 st.title("😊 Local Llama Chatbot")
-st.caption("Running locally with Llama 3.2 - Privacy First!")
+st.caption("Meet Dennis AI - Privacy First!")
 
 # Memory
 
