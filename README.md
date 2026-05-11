@@ -5,7 +5,7 @@ import streamlit as st
 import ollama
 
 # Set the page configuration
-st.set_page_config(page_title="My Local AI", page_icon="🤖")
+st.set_page_config(page_title="My Local AI", page_icon="😊")
 
 st.title("🤖 Local Llama Chatbot")
 st.caption("Running locally with Llama 3.2 - No Data Leaves This PC!")
